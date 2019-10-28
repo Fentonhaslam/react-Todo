@@ -11,3 +11,7 @@ npm start
 the . allows us to create the react app in the folder, if not you can also put the name of the app and will create the react app in the new named folder. 
 (ensure no capitals due to react naming restrictions)
 
+```
+rce 'tab'
+```
+is a shortcut in creating the name of the files item
