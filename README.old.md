@@ -15,3 +15,8 @@ the . allows us to create the react app in the folder, if not you can also put t
 rce 'tab'
 ```
 is a shortcut in creating the name of the files item
+
+``` 
+npm react-router-dom
+```
+installs router 
